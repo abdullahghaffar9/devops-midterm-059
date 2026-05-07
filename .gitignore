@@ -1,3 +1,5 @@
 venv/
 configs/
 __pycache__/
+metrics.json
+model.pkl
