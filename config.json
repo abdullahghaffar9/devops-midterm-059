@@ -3,5 +3,5 @@
     "seed": 1079,
     "model_type": "random_forest",
     "noise_level": 0.17,
-    "dataset_version": 1
+    "dataset_version": 2
 }
